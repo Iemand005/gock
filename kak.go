@@ -8,5 +8,4 @@ func hi() bool {
 
 func main() {
 	fmt.Print("hey!")
-	return
 }
