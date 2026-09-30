@@ -1,9 +1,9 @@
-package gock
+package main
 
 func hi() bool {
 	return false
 }
 
-func main() int {
-	return 0
+func main() {
+	return
 }
